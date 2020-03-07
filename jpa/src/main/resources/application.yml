@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/test?serverTimezone=UTC&amp
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  # 允许自动创建表
+  jpa:
+    generate-ddl: true
