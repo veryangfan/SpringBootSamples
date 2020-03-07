@@ -6,14 +6,5 @@
 *.iml
 out
 gen
-.idea/.gitignore
-.idea/compiler.xml
-.idea/encodings.xml
 .idea/libraries/
-.idea/misc.xml
-.idea/uiDesigner.xml
-.idea/vcs.xml
-
 target/
-!/.idea/SpringBootSamples.iml
-!/.idea/modules.xml
