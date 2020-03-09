@@ -8,7 +8,9 @@
       <list>
         <option value="$PROJECT_DIR$/jpa/pom.xml" />
         <option value="$PROJECT_DIR$/lombok/pom.xml" />
+        <option value="$PROJECT_DIR$/security/pom.xml" />
       </list>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="security" />
         <module name="lombok" />
         <module name="jpa" />
       </profile>
@@ -14,6 +15,7 @@
       <module name="demo" target="1.8" />
       <module name="jpa" target="1.8" />
       <module name="lombok" target="1.8" />
+      <module name="security" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -21,6 +23,7 @@
       <module name="demo" options="-parameters" />
       <module name="jpa" options="-parameters" />
       <module name="lombok" options="-parameters" />
+      <module name="security" options="-parameters" />
     </option>
   </component>
 </project>
